@@ -6,7 +6,7 @@ chapter: true
 ---
 
 # Docker: Build, Ship and Run Any App, Anywhere
-**Martijn Dwars, Wiebe van Geest, Rik Nijessen and Rick Wieman**<br/>
+**[Martijn Dwars](https://github.com/martijndwars), [Wiebe van Geest](https://github.com/wrvangeest), [Rik Nijessen](https://github.com/gewoonrik) and [Rick Wieman](https://github.com/rickwieman)**<br/>
 *Delft University of Technology*
 
 [![Docker logo](images/docker_logo.png)](https://www.docker.com/).
